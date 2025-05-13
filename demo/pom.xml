@@ -9,13 +9,13 @@
   <version>1.0</version>
 
   <name>demo</name>
-  <!-- FIXME change it to the project's website -->
+
   <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>24.0.1</maven.compiler.source>
-    <maven.compiler.target>24.0.1</maven.compiler.target>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
   </properties>
 
   <dependencies>
